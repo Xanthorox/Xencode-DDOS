@@ -1,4 +1,5 @@
 
+<img width="821" height="486" alt="Screenshot 2025-12-28 121527" src="https://github.com/user-attachments/assets/2bfc9a07-1543-4310-af96-eba744b9d6cc" />
 
 
 https://github.com/user-attachments/assets/220a32bb-21b8-40a8-acc2-74738f75cd7a
@@ -377,3 +378,4 @@ For support and questions, please refer to the documentation or create an issue 
 
 
 **Xanthorox Agent** - Ultimate Performance-Optimized DDoS Framework
+
