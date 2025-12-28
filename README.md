@@ -1,3 +1,10 @@
+
+
+
+https://github.com/user-attachments/assets/220a32bb-21b8-40a8-acc2-74738f75cd7a
+
+
+
 # Xanthorox Agent - Ultimate DDoS Framework
 
 An advanced, multi-vector DDoS framework built in Node.js with bypass techniques, amplification attacks, and a professional web-based control panel.
@@ -367,5 +374,6 @@ For support and questions, please refer to the documentation or create an issue 
 - Amplification attacks
 
 ---
+
 
 **Xanthorox Agent** - Ultimate Performance-Optimized DDoS Framework
