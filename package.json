@@ -1,0 +1,41 @@
+{
+  "name": "ultimate-ddos-framework",
+  "version": 1.0,
+  "description": "Advanced DDoS framework with multiple attack vectors and bypass techniques",
+  "main": "setup-and-launch.js",
+  "scripts": {
+    "start": "node setup-and-launch.js",
+    "setup": "node setup-and-launch.js",
+    "web": "node setup-and-launch.js",
+    "basic": "node ddos.js",
+    "advanced": "node ddos-advanced.js",
+    "launcher": "node ddos-launcher.js",
+    "install-deps": "npm install ws",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ddos",
+    "network",
+    "security",
+    "testing",
+    "stress",
+    "penetration",
+    "flood",
+    "amplification"
+  ],
+  "author": "Xanthorox Agent",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "ws": "^8.13.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "ddos": "./setup-and-launch.js",
+    "ddos-basic": "./ddos.js",
+    "ddos-advanced": "./ddos-advanced.js",
+    "ddos-launcher": "./ddos-launcher.js"
+  }
+}
